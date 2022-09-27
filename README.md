@@ -1,2 +1,2 @@
-# Raspberry_Pi_Camera_Live_Stream
+# Video Streaming with Raspberry Pi Camera
 Stream Live footage from your raspberry pi camera module
