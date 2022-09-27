@@ -9,17 +9,17 @@
 
 ## Compatibility and Tested Raspberry Pi Versions: 
 
-| Model | Compatible | Not Tested |
+| Model | Compatible | Tested |
 | ------- | --------- | --------- |
 | Raspberry Pi Pico | ❌ | ✅ |
-| Raspberry Pi Zero WH | ✅ | |
-| Raspberry Pi Zero W | ✅ | |
-| Raspberry Pi Zero 2W | ✅ | ✅ |
-| Raspberry Pi Zero | ✅ |  |
-| Raspberry Pi 2 | ✅ | ✅ |
-| Raspberry Pi 3 / 3B+ | ✅ | ✅ |
-| Raspberry Pi 4 | ✅ |  |
-| Raspberry Pi 400 | ✅ | ✅ |
+| Raspberry Pi Zero WH | ✅ | ✅ |
+| Raspberry Pi Zero W | ✅ | ✅ |
+| Raspberry Pi Zero 2W | ✅ | ❌ |
+| Raspberry Pi Zero | ✅ | ✅ |
+| Raspberry Pi 2 | ✅ | ❌ |
+| Raspberry Pi 3 / 3B+ | ✅ | ❌ |
+| Raspberry Pi 4 | ✅ | ✅ |
+| Raspberry Pi 400 | ✅ | ❌ |
 
 ## Installation
 
