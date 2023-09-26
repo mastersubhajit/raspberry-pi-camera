@@ -268,10 +268,6 @@ Board dimensions and mounting-hole positions for Camera Module 3 are identical t
 </tbody></table>
 </div>
 </div>
-<div class="sect2">
-<div name="schematics" data-unique="schematics"></div><h3 id="schematics">
-<a class="anchor" href="#schematics"></a>Schematics</h3>
-</div>
 </div>
 
 ## Compatibility and Tested Raspberry Pi Versions: 
