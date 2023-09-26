@@ -1,6 +1,6 @@
 # Video Streaming with Raspberry Pi Camera Module
 <p align="center">
-  <img alt="PICTURE logo" src="https://images.prismic.io/rpf-products/ffa68a46-fd44-4995-9ad4-ac846a5563f1_Camera+V2+Hero.jpg?auto=compress%2Cformat&fit=max&w=1200&h=800&fm=webp" width="400">
+  <img alt="Raspberry Pi Camera" src="https://www.raspberrypi.com/documentation/accessories/images/cm3.jpg">
   <br>
   <b>Video streaming with a Raspberry Pi and a Pi Camera module to stream live footage from a webpage that you can access in any device that has a browser and is connected to the same network.</b>
   <br>
