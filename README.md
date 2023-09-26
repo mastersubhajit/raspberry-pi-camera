@@ -271,26 +271,6 @@ Board dimensions and mounting-hole positions for Camera Module 3 are identical t
 <div class="sect2">
 <div name="schematics" data-unique="schematics"></div><h3 id="schematics">
 <a class="anchor" href="#schematics"></a>Schematics</h3>
-<div class="paragraph">
-<div class="title">Schematic of the Raspberry Pi CSI camera connector.</div>
-<p><span class="image"><img src="images/RPi-S5-conn.png" alt="camera connector" width="65%"></span></p>
-</div>
-<div class="paragraph">
-<p>Other available schematics;</p>
-</div>
-<div class="ulist">
-<ul>
-<li>
-<p>Camera Module v2 <a href="https://datasheets.raspberrypi.com/camera/camera-module-2-schematics.pdf">PDF</a></p>
-</li>
-<li>
-<p>Camera Module v3 <a href="https://datasheets.raspberrypi.com/camera/camera-module-3-schematics.pdf">PDF</a></p>
-</li>
-<li>
-<p>HQ Camera Module <a href="https://datasheets.raspberrypi.com/hq-camera/hq-camera-schematics.pdf">PDF</a></p>
-</li>
-</ul>
-</div>
 </div>
 </div>
 
