@@ -9,8 +9,7 @@
 
 ## Hardware Specification
 <div class="sect1">
-<div name="hardware-specification" data-unique="hardware-specification"></div><h2 id="hardware-specification">
-<a class="anchor" href="#hardware-specification"></a>Hardware Specification</h2>
+<div name="hardware-specification" data-unique="hardware-specification"></div>
 <div class="sectionbody"></div>
 <table class="tableblock frame-all grid-all stretch">
 <colgroup>
